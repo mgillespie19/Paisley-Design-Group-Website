@@ -1,0 +1,65 @@
+.Example {
+  align-items: center;
+  width: 91%;
+  background-color: #FFFFFF;
+  margin-left: 8%;
+  margin-bottom: 100px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  padding: 10px;
+  padding-bottom: 10px;
+  box-shadow: 3px 4px 10px green;
+  font-family: 'Titillium Web', sans-serif;
+  grid-template-columns: repeat(2, auto);
+  display: grid;
+}
+
+.Example h1 {
+  margin: 20px;
+  padding-right: 125px;
+}
+
+.Example p {
+  margin: 20px;
+  padding-right: 125px;
+}
+
+.Example a {
+  color: blue;
+  text-decoration: none;
+  font-weight: 600;
+  margin: 20px;
+  padding-bottom: 10px;
+}
+
+.InnerContent {
+  margin-bottom: 20px;
+  margin-left: 21px;
+}
+
+.Logo {
+  width: 200px;
+  margin-left: 10%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.Logo img {
+  width: 100%;
+  border-radius: 35px;
+  box-shadow: 2px 2px 22px lightgrey;
+}
+
+@media (max-width: 825px) {
+  .Example {
+    grid-template-columns: repeat(1, auto);
+  }
+
+  .Example h1 {
+    padding-right: 25px;
+  }
+
+  .Example p {
+    padding-right: 25px;
+  }
+}
