@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import '../layouts/index.css'
+import '../layouts/styles.css'
 
 import ExampleSquare from '../components/exampleSquare'
 

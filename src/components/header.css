@@ -1,5 +1,6 @@
 .Header {
   padding-top: 4%;
+  padding-left: 2%;
   padding-bottom: 20px;
 }
 
@@ -9,7 +10,7 @@
   font-family: 'Source Sans', sans-serif;
   font-weight: 300;
   font-size: 16pt;
-  padding-left: 4%;
+  padding-left: 3%;
 }
 
 .Header img {

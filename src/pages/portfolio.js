@@ -1,12 +1,12 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import '../layouts/about.css'
+import '../layouts/styles.css'
 
 const Portfolio = () => (
-  <div className="Landing-about">
-    <h1>
+  <div>
+    <h2>
       Portfolio
-    </h1>
+    </h2>
   </div>
 )
 

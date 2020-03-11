@@ -6,7 +6,8 @@ exports.components = {
   "component---src-pages-404-js": require("gatsby-module-loader?name=component---src-pages-404-js!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/src/pages/404.js"),
   "component---src-pages-careers-js": require("gatsby-module-loader?name=component---src-pages-careers-js!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/src/pages/careers.js"),
   "component---src-pages-index-js": require("gatsby-module-loader?name=component---src-pages-index-js!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/src/pages/index.js"),
-  "component---src-pages-portfolio-js": require("gatsby-module-loader?name=component---src-pages-portfolio-js!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/src/pages/portfolio.js")
+  "component---src-pages-portfolio-js": require("gatsby-module-loader?name=component---src-pages-portfolio-js!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/src/pages/portfolio.js"),
+  "component---src-pages-pricing-js": require("gatsby-module-loader?name=component---src-pages-pricing-js!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/src/pages/pricing.js")
 }
 
 exports.json = {
@@ -16,7 +17,8 @@ exports.json = {
   "careers.json": require("gatsby-module-loader?name=path---careers!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/careers.json"),
   "index.json": require("gatsby-module-loader?name=path---index!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/index.json"),
   "portfolio.json": require("gatsby-module-loader?name=path---portfolio!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/portfolio.json"),
-  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/404-html.json")
+  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/404-html.json"),
+  "pricing.json": require("gatsby-module-loader?name=path---pricing!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/pricing.json")
 }
 
 exports.layouts = {

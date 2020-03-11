@@ -2,12 +2,12 @@ import React from 'react'
 import Link from 'gatsby-link'
 import '../layouts/styles.css'
 
-const Careers = () => (
+const Pricing = () => (
   <div>
     <h2>
-      Careers
+      Pricing
     </h2>
   </div>
 )
 
-export default Careers
+export default Pricing
