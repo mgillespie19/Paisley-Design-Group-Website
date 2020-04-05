@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 import '../layouts/styles.css'
 
 const Portfolio = () => (
-  <div>
+  <div className="bodyContainer">
     <h2>
       Portfolio
     </h2>

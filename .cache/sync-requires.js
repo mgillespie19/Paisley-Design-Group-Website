@@ -22,6 +22,6 @@ exports.json = {
   "careers.json": require("/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/careers.json"),
   "index.json": require("/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/index.json"),
   "portfolio.json": require("/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/portfolio.json"),
-  "404-html.json": require("/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/404-html.json"),
-  "pricing.json": require("/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/pricing.json")
+  "pricing.json": require("/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/pricing.json"),
+  "404-html.json": require("/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/404-html.json")
 }

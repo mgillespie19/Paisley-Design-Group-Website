@@ -2,3 +2,7 @@ h2 {
   font-weight: 200;
   font-size: 46pt;
 }
+
+.bodyContainer {
+  padding-left: 5%;
+}

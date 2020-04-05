@@ -17,8 +17,8 @@ exports.json = {
   "careers.json": require("gatsby-module-loader?name=path---careers!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/careers.json"),
   "index.json": require("gatsby-module-loader?name=path---index!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/index.json"),
   "portfolio.json": require("gatsby-module-loader?name=path---portfolio!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/portfolio.json"),
-  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/404-html.json"),
-  "pricing.json": require("gatsby-module-loader?name=path---pricing!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/pricing.json")
+  "pricing.json": require("gatsby-module-loader?name=path---pricing!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/pricing.json"),
+  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/.cache/json/404-html.json")
 }
 
 exports.layouts = {

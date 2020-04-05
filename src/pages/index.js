@@ -28,13 +28,12 @@ const IndexPage = () => (
           Who are we?
         </h2>
         <p>
-          this is a collection of my work -- some of the things I'm passionate about,
-          proud to have worked on, or am otherwise excited to share.
+          We are a group of highly skilled mobile contractors and design
+          consultants with a passion for building game-changing products in our
+          DNA.
         </p>
         <p>
-          if you like what you see, and are interested in working together on a project,
-          check out <Link to="/portfolio"> <b> contact </b> </Link> in my about section,
-          or head over to <Link to="/"> <b> my contracting company </b> </Link>
+          We have worked on a number of
         </p>
       </div>
     </div>

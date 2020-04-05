@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e288d3cc16a83ea969ce07c4c93605f3",
+        "contentDigest": "8e99300a91dad91a417e0cf3e163a0c9",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -434,16 +434,16 @@
       "siteMetadata": {
         "title": "Paisley Design Group"
       },
-      "port": "8000",
+      "port": 8001,
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2020-03-11T22:14:55.024Z",
+      "buildTime": "2020-04-05T01:25:50.568Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a0993bac58aeaee76da7c2b0873257fe",
+        "contentDigest": "d79375822a252b06dfaa56ee8d0f3789",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -464,7 +464,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f482fd1137f446d7d095dc92a2aa0436",
+        "contentDigest": "bc3a8f0370ca52815bb393f768b80794",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -485,7 +485,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1cb050de8bd5783661bf9fea9a88a045",
+        "contentDigest": "4c9c9dc4f43278b080b1248b71c4e27c",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -506,7 +506,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "587188cd2bf74675a43ff07ca78b1fac",
+        "contentDigest": "a5e58596dba863ec3fad8c68d18e3a5c",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -527,7 +527,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7d6b17f8a738a6bdc454d4ced71a9f10",
+        "contentDigest": "e03f9ea14ca8bbc9537ea41c3b9fc7e2",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /pricing/": {
+      "layout": "index",
+      "jsonName": "pricing.json",
+      "internalComponentName": "ComponentPricing",
+      "path": "/pricing/",
+      "component": "/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/src/pages/pricing.js",
+      "componentChunkName": "component---src-pages-pricing-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/src/pages/pricing.js",
+      "id": "SitePage /pricing/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "999e998a2d5b014e8378af13c565fa29",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -548,29 +569,8 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2e1ef0076a3a25e4780ca0453d8e61d7",
+        "contentDigest": "359f3eaf323191f2be95db89dd97daaf",
         "description": "Plugin prod-404",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /pricing/": {
-      "layout": "index",
-      "jsonName": "pricing.json",
-      "internalComponentName": "ComponentPricing",
-      "path": "/pricing/",
-      "component": "/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/src/pages/pricing.js",
-      "componentChunkName": "component---src-pages-pricing-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/MaxGillespie/Documents/Work/Paisley Design Group/pdg.com/src/pages/pricing.js",
-      "id": "SitePage /pricing/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "38a6d3400457125178863e3b7190c3bf",
-        "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
     }
